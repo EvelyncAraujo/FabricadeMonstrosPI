@@ -1,0 +1,57 @@
+*{
+    background-color: black;
+}
+fieldset{
+    background-color: yellow;
+    border: none;
+    padding: 15px;
+}
+.f2{
+    background-color: yellow;
+    border: none;
+    margin-left: 10rem;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    font-family: monospace;
+
+}
+h2{
+    text-align: right ;
+    font-size: 35px;
+    color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cal{
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+height: 40rem;
+margin-left: 20rem;
+-webkit-mask-image: linear-gradient(to right, transparent 2%, black 100%);
+}
+
+.b1{
+    margin-left:50rem ;
+    border: none;
+    background-color: yellow;
+    padding: 20px;
+}
+.b2{
+  margin-left: 10px;
+    border: none;
+    background-color: yellow;
+    padding: 20px;
+}
+.b2:hover{
+    background-color: rgb(189, 189, 66);
+}
+
+.b1:hover{
+    background-color:  rgb(189, 189, 66);
+}
